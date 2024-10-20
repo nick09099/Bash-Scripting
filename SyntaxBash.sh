@@ -3,7 +3,7 @@
 #Condition Statements
 #If statments
 
-count=10
+count=20
 
 if [ $count -eq 10 ]
 then
