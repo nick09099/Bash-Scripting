@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# A Real sceanrio script for shell Scripting Project Used In Real Time to findout list of users having access to github repositories.
+
 # GitHub API URL
 API_URL="https://api.github.com"
 
